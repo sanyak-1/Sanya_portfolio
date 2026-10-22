@@ -10,15 +10,15 @@ Live Deployment: [https://sanya-portfolio-olive.vercel.app](https://sanya-portfo
 
 ## Tech Stack
 
-**Frontend (Client)
+Frontend (Client): 
 React 18 & Vite:Fast, component-based UI architecture.
 Tailwind CSS v3: Custom industrial design system (utilizing custom `ink` and `volt` color palettes).
 Lucide React: Clean, minimal icon set (with custom inline SVGs for brand assets).
 
-**Backend (Server)
+Backend (Server) :
 Node.js & Express.js:API routing and backend infrastructure (structured to support future full-stack scaling).
 
-**Deployment & CI/CD
+Deployment & CI/CD :
 Vercel: Automated frontend deployment and hosting.
 Git/GitHub: Version control and repository management.
 
